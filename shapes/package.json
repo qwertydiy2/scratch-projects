@@ -1,6 +1,7 @@
 {
   "name": "shapes",
   "version": "1.0.0",
+<<<<<<< HEAD
   "description": "",
   "main": "shapes.js",
   "scripts": {
@@ -22,5 +23,9 @@
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
     "html-webpack-plugin": "^5.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qwertydiy2/scratch-projects"
   }
 }
